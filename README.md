@@ -1,4 +1,5 @@
-# KOTR
+# KOTR (Knights of the Round)
+## Team Members: Joe Cumins & Thomas Wray
 A 2D, sprite-based game that runs as both a Java application and a Java applet.
 
 Summary:
